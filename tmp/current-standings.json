@@ -1,7 +1,7 @@
 {
   "get": "standings",
   "parameters": {
-    "league": "41",
+    "league": "135",
     "season": "2025"
   },
   "errors": [],
@@ -13,44 +13,44 @@
   "response": [
     {
       "league": {
-        "id": 41,
-        "name": "League One",
-        "country": "England",
-        "logo": "https://media.api-sports.io/football/leagues/41.png",
-        "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
         "season": 2025,
         "standings": [
           [
             {
               "rank": 1,
               "team": {
-                "id": 37,
-                "name": "Huddersfield",
-                "logo": "https://media.api-sports.io/football/teams/37.png"
+                "id": 867,
+                "name": "Lecce",
+                "logo": "https://media.api-sports.io/football/teams/867.png"
               },
-              "points": 3,
-              "goalsDiff": 3,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotion",
+              "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
+                  "for": 0,
                   "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
+                  "for": 0,
                   "against": 0
                 }
               },
@@ -64,29 +64,29 @@
                   "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 2,
               "team": {
-                "id": 747,
-                "name": "Barnsley",
-                "logo": "https://media.api-sports.io/football/teams/747.png"
+                "id": 500,
+                "name": "Bologna",
+                "logo": "https://media.api-sports.io/football/teams/500.png"
               },
-              "points": 3,
-              "goalsDiff": 2,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotion",
+              "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -96,52 +96,52 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 3,
               "team": {
-                "id": 61,
-                "name": "Wigan",
-                "logo": "https://media.api-sports.io/football/teams/61.png"
+                "id": 801,
+                "name": "Pisa",
+                "logo": "https://media.api-sports.io/football/teams/801.png"
               },
-              "points": 3,
-              "goalsDiff": 2,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotionplayoff",
+              "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -151,41 +151,41 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 4,
               "team": {
-                "id": 1379,
-                "name": "Lincoln",
-                "logo": "https://media.api-sports.io/football/teams/1379.png"
+                "id": 520,
+                "name": "Cremonese",
+                "logo": "https://media.api-sports.io/football/teams/520.png"
               },
-              "points": 3,
-              "goalsDiff": 2,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotionplayoff",
+              "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
+                  "for": 0,
                   "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
+                  "for": 0,
                   "against": 0
                 }
               },
@@ -199,38 +199,38 @@
                   "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 5,
               "team": {
-                "id": 4686,
-                "name": "Stockport County",
-                "logo": "https://media.api-sports.io/football/teams/4686.png"
+                "id": 495,
+                "name": "Genoa",
+                "logo": "https://media.api-sports.io/football/teams/495.png"
               },
-              "points": 3,
-              "goalsDiff": 2,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotionplayoff",
+              "description": "Promotion - Europa League (League phase: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
+                  "for": 0,
                   "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
+                  "for": 0,
                   "against": 0
                 }
               },
@@ -244,29 +244,29 @@
                   "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 6,
               "team": {
-                "id": 1368,
-                "name": "Stevenage",
-                "logo": "https://media.api-sports.io/football/teams/1368.png"
+                "id": 492,
+                "name": "Napoli",
+                "logo": "https://media.api-sports.io/football/teams/492.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": "Promotionplayoff",
+              "description": "Promotion - Conference League (Qualification: )",
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -276,52 +276,52 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 2
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 3,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 7,
               "team": {
-                "id": 1343,
-                "name": "Bradford",
-                "logo": "https://media.api-sports.io/football/teams/1343.png"
+                "id": 494,
+                "name": "Udinese",
+                "logo": "https://media.api-sports.io/football/teams/494.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -331,42 +331,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 8,
               "team": {
-                "id": 748,
-                "name": "Burton Albion",
-                "logo": "https://media.api-sports.io/football/teams/748.png"
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -376,42 +376,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 9,
               "team": {
-                "id": 43,
-                "name": "Cardiff",
-                "logo": "https://media.api-sports.io/football/teams/43.png"
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -421,42 +421,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 10,
               "team": {
-                "id": 73,
-                "name": "Rotherham",
-                "logo": "https://media.api-sports.io/football/teams/73.png"
+                "id": 505,
+                "name": "Inter",
+                "logo": "https://media.api-sports.io/football/teams/505.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 1
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -466,41 +466,41 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 11,
               "team": {
-                "id": 1354,
-                "name": "Doncaster",
-                "logo": "https://media.api-sports.io/football/teams/1354.png"
+                "id": 496,
+                "name": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 1,
+                  "for": 0,
                   "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 1,
+                  "for": 0,
                   "against": 0
                 }
               },
@@ -514,38 +514,38 @@
                   "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 12,
               "team": {
-                "id": 1359,
-                "name": "Luton",
-                "logo": "https://media.api-sports.io/football/teams/1359.png"
+                "id": 502,
+                "name": "Fiorentina",
+                "logo": "https://media.api-sports.io/football/teams/502.png"
               },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "League One: Regular Season",
+              "points": 0,
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 1,
+                  "for": 0,
                   "against": 0
                 }
               },
               "home": {
-                "played": 1,
-                "win": 1,
+                "played": 0,
+                "win": 0,
                 "draw": 0,
                 "lose": 0,
                 "goals": {
-                  "for": 1,
+                  "for": 0,
                   "against": 0
                 }
               },
@@ -559,39 +559,39 @@
                   "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 13,
               "team": {
-                "id": 1356,
-                "name": "Blackpool",
-                "logo": "https://media.api-sports.io/football/teams/1356.png"
+                "id": 489,
+                "name": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 3
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 2,
-                  "against": 3
+                  "for": 0,
+                  "against": 0
                 }
               },
               "away": {
@@ -601,32 +601,32 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 3
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 14,
               "team": {
-                "id": 1374,
-                "name": "Mansfield Town",
-                "logo": "https://media.api-sports.io/football/teams/1374.png"
+                "id": 499,
+                "name": "Atalanta",
+                "logo": "https://media.api-sports.io/football/teams/499.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -636,42 +636,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 2
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 15,
               "team": {
-                "id": 1350,
-                "name": "Peterborough",
-                "logo": "https://media.api-sports.io/football/teams/1350.png"
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -681,42 +681,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 2
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 16,
               "team": {
-                "id": 1351,
-                "name": "Port Vale",
-                "logo": "https://media.api-sports.io/football/teams/1351.png"
+                "id": 490,
+                "name": "Cagliari",
+                "logo": "https://media.api-sports.io/football/teams/490.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -726,42 +726,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 2
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 17,
               "team": {
-                "id": 1358,
-                "name": "Wycombe",
-                "logo": "https://media.api-sports.io/football/teams/1358.png"
+                "id": 503,
+                "name": "Torino",
+                "logo": "https://media.api-sports.io/football/teams/503.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
               "description": null,
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -771,42 +771,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 2
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 2
+                  "for": 0,
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 18,
               "team": {
-                "id": 1333,
-                "name": "AFC Wimbledon",
-                "logo": "https://media.api-sports.io/football/teams/1333.png"
+                "id": 523,
+                "name": "Parma",
+                "logo": "https://media.api-sports.io/football/teams/523.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": null,
+              "description": "Relegation - Serie B",
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
               "home": {
@@ -816,42 +816,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 19,
               "team": {
-                "id": 1364,
-                "name": "Exeter City",
-                "logo": "https://media.api-sports.io/football/teams/1364.png"
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
               },
               "points": 0,
-              "goalsDiff": -1,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": null,
+              "description": "Relegation - Serie B",
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
               "home": {
@@ -861,42 +861,42 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
               "away": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 1
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             },
             {
               "rank": 20,
               "team": {
-                "id": 1337,
-                "name": "Northampton",
-                "logo": "https://media.api-sports.io/football/teams/1337.png"
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
               },
               "points": 0,
-              "goalsDiff": -2,
-              "group": "League One: Regular Season",
+              "goalsDiff": 0,
+              "group": "Serie A",
               "form": null,
               "status": "same",
-              "description": null,
+              "description": "Relegation - Serie B",
               "all": {
-                "played": 1,
+                "played": 0,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 0,
                 "goals": {
-                  "for": 1,
-                  "against": 3
+                  "for": 0,
+                  "against": 0
                 }
               },
               "home": {
@@ -906,52 +906,7 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "update": "2025-08-05T00:00:00+00:00"
-            },
-            {
-              "rank": 21,
-              "team": {
-                "id": 1357,
-                "name": "Plymouth",
-                "logo": "https://media.api-sports.io/football/teams/1357.png"
-              },
-              "points": 0,
-              "goalsDiff": -2,
-              "group": "League One: Regular Season",
-              "form": null,
-              "status": "same",
-              "description": "Relegation",
-              "all": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 3
+                  "against": 0
                 }
               },
               "away": {
@@ -961,145 +916,10 @@
                 "lose": 0,
                 "goals": {
                   "for": 0,
-                  "against": 3
+                  "against": 0
                 }
               },
-              "update": "2025-08-05T00:00:00+00:00"
-            },
-            {
-              "rank": 22,
-              "team": {
-                "id": 68,
-                "name": "Bolton",
-                "logo": "https://media.api-sports.io/football/teams/68.png"
-              },
-              "points": 0,
-              "goalsDiff": -2,
-              "group": "League One: Regular Season",
-              "form": null,
-              "status": "same",
-              "description": "Relegation",
-              "all": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "update": "2025-08-05T00:00:00+00:00"
-            },
-            {
-              "rank": 23,
-              "team": {
-                "id": 53,
-                "name": "Reading",
-                "logo": "https://media.api-sports.io/football/teams/53.png"
-              },
-              "points": 0,
-              "goalsDiff": -2,
-              "group": "League One: Regular Season",
-              "form": null,
-              "status": "same",
-              "description": "Relegation",
-              "all": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "update": "2025-08-05T00:00:00+00:00"
-            },
-            {
-              "rank": 24,
-              "team": {
-                "id": 1373,
-                "name": "Leyton Orient",
-                "logo": "https://media.api-sports.io/football/teams/1373.png"
-              },
-              "points": 0,
-              "goalsDiff": -3,
-              "group": "League One: Regular Season",
-              "form": null,
-              "status": "same",
-              "description": "Relegation",
-              "all": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 3
-                }
-              },
-              "update": "2025-08-05T00:00:00+00:00"
+              "update": "2025-07-09T00:00:00+00:00"
             }
           ]
         ]
