@@ -318,6 +318,55 @@
             {
               "rank": 7,
               "team": {
+                "id": 494,
+                "name": "Udinese",
+                "logo": "https://media.api-sports.io/football/teams/494.png"
+              },
+              "points": 1,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "D",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2025-08-25T00:00:00+00:00",
+              "highlight": true,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 12,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 8,
+              "team": {
                 "id": 502,
                 "name": "Fiorentina",
                 "logo": "https://media.api-sports.io/football/teams/502.png"
@@ -365,7 +414,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "team": {
                 "id": 499,
                 "name": "Atalanta",
@@ -414,7 +463,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "team": {
                 "id": 490,
                 "name": "Cagliari",
@@ -463,7 +512,56 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 10,
+              "rank": 11,
+              "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+              },
+              "points": 1,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "D",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2025-08-25T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 14,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 12,
               "team": {
                 "id": 867,
                 "name": "Lecce",
@@ -512,7 +610,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 11,
+              "rank": 13,
               "team": {
                 "id": 495,
                 "name": "Genoa",
@@ -561,56 +659,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 12,
-              "team": {
-                "id": 494,
-                "name": "Udinese",
-                "logo": "https://media.api-sports.io/football/teams/494.png"
-              },
-              "points": 0,
-              "goalsDiff": 0,
-              "group": "Serie A",
-              "form": null,
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2025-08-25T00:00:00+00:00",
-              "highlight": true,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 12,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 13,
+              "rank": 14,
               "team": {
                 "id": 505,
                 "name": "Inter",
@@ -659,7 +708,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 14,
+              "rank": 15,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -705,55 +754,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 11,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 15,
-              "team": {
-                "id": 504,
-                "name": "Verona",
-                "logo": "https://media.api-sports.io/football/teams/504.png"
-              },
-              "points": 0,
-              "goalsDiff": 0,
-              "group": "Serie A",
-              "form": null,
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2025-08-25T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 14,
               "nextUp": "TBD"
             },
             {
