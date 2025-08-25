@@ -24,6 +24,51 @@
             {
               "rank": 1,
               "team": {
+                "id": 505,
+                "name": "Inter",
+                "logo": "https://media.api-sports.io/football/teams/505.png"
+              },
+              "points": 3,
+              "goalsDiff": 5,
+              "group": "Serie A",
+              "form": "W",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2025-08-25T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
                 "id": 492,
                 "name": "Napoli",
                 "logo": "https://media.api-sports.io/football/teams/492.png"
@@ -67,7 +112,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "team": {
                 "id": 496,
                 "name": "Juventus",
@@ -112,7 +157,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 895,
                 "name": "Como",
@@ -157,56 +202,11 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "team": {
                 "id": 520,
                 "name": "Cremonese",
                 "logo": "https://media.api-sports.io/football/teams/520.png"
-              },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "Serie A",
-              "form": "W",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 1
-                }
-              },
-              "update": "2025-08-25T00:00:00+00:00"
-            },
-            {
-              "rank": 5,
-              "team": {
-                "id": 497,
-                "name": "AS Roma",
-                "logo": "https://media.api-sports.io/football/teams/497.png"
               },
               "points": 3,
               "goalsDiff": 1,
@@ -220,6 +220,51 @@
                 "draw": 0,
                 "lose": 0,
                 "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2025-08-25T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 3,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "W",
+              "status": "same",
+              "description": "Promotion - Conference League (Qualification: )",
+              "all": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
                   "for": 1,
                   "against": 0
                 }
@@ -247,7 +292,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "team": {
                 "id": 801,
                 "name": "Pisa",
@@ -258,7 +303,7 @@
               "group": "Serie A",
               "form": "D",
               "status": "same",
-              "description": "Promotion - Conference League (Qualification: )",
+              "description": null,
               "all": {
                 "played": 1,
                 "win": 0,
@@ -292,7 +337,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "team": {
                 "id": 494,
                 "name": "Udinese",
@@ -337,7 +382,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 8,
+              "rank": 9,
               "team": {
                 "id": 502,
                 "name": "Fiorentina",
@@ -382,7 +427,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "team": {
                 "id": 499,
                 "name": "Atalanta",
@@ -427,7 +472,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 10,
+              "rank": 11,
               "team": {
                 "id": 490,
                 "name": "Cagliari",
@@ -472,7 +517,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 504,
                 "name": "Verona",
@@ -517,7 +562,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 12,
+              "rank": 13,
               "team": {
                 "id": 867,
                 "name": "Lecce",
@@ -562,7 +607,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 13,
+              "rank": 14,
               "team": {
                 "id": 495,
                 "name": "Genoa",
@@ -607,97 +652,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 14,
-              "team": {
-                "id": 505,
-                "name": "Inter",
-                "logo": "https://media.api-sports.io/football/teams/505.png"
-              },
-              "points": 0,
-              "goalsDiff": 0,
-              "group": "Serie A",
-              "form": null,
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2025-08-25T00:00:00+00:00"
-            },
-            {
               "rank": 15,
-              "team": {
-                "id": 503,
-                "name": "Torino",
-                "logo": "https://media.api-sports.io/football/teams/503.png"
-              },
-              "points": 0,
-              "goalsDiff": 0,
-              "group": "Serie A",
-              "form": null,
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2025-08-25T00:00:00+00:00"
-            },
-            {
-              "rank": 16,
               "team": {
                 "id": 489,
                 "name": "AC Milan",
@@ -742,7 +697,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 17,
+              "rank": 16,
               "team": {
                 "id": 500,
                 "name": "Bologna",
@@ -787,7 +742,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 18,
+              "rank": 17,
               "team": {
                 "id": 488,
                 "name": "Sassuolo",
@@ -798,7 +753,7 @@
               "group": "Serie A",
               "form": "L",
               "status": "same",
-              "description": "Relegation - Serie B",
+              "description": null,
               "all": {
                 "played": 1,
                 "win": 0,
@@ -832,7 +787,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 19,
+              "rank": 18,
               "team": {
                 "id": 487,
                 "name": "Lazio",
@@ -877,7 +832,7 @@
               "update": "2025-08-25T00:00:00+00:00"
             },
             {
-              "rank": 20,
+              "rank": 19,
               "team": {
                 "id": 523,
                 "name": "Parma",
@@ -917,6 +872,51 @@
                 "goals": {
                   "for": 0,
                   "against": 2
+                }
+              },
+              "update": "2025-08-25T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 503,
+                "name": "Torino",
+                "logo": "https://media.api-sports.io/football/teams/503.png"
+              },
+              "points": 0,
+              "goalsDiff": -5,
+              "group": "Serie A",
+              "form": "L",
+              "status": "same",
+              "description": "Relegation - Serie B",
+              "all": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 5
                 }
               },
               "update": "2025-08-25T00:00:00+00:00"
