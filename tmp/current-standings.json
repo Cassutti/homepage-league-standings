@@ -24,6 +24,51 @@
             {
               "rank": 1,
               "team": {
+                "id": 520,
+                "name": "Cremonese",
+                "logo": "https://media.api-sports.io/football/teams/520.png"
+              },
+              "points": 6,
+              "goalsDiff": 2,
+              "group": "Serie A",
+              "form": "WW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2025-08-29T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
                 "id": 505,
                 "name": "Inter",
                 "logo": "https://media.api-sports.io/football/teams/505.png"
@@ -67,7 +112,7 @@
               "update": "2025-08-29T00:00:00+00:00"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "team": {
                 "id": 492,
                 "name": "Napoli",
@@ -112,7 +157,7 @@
               "update": "2025-08-29T00:00:00+00:00"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 496,
                 "name": "Juventus",
@@ -157,7 +202,7 @@
               "update": "2025-08-29T00:00:00+00:00"
             },
             {
-              "rank": 4,
+              "rank": 5,
               "team": {
                 "id": 895,
                 "name": "Como",
@@ -165,51 +210,6 @@
               },
               "points": 3,
               "goalsDiff": 2,
-              "group": "Serie A",
-              "form": "W",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 0
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "update": "2025-08-29T00:00:00+00:00"
-            },
-            {
-              "rank": 5,
-              "team": {
-                "id": 520,
-                "name": "Cremonese",
-                "logo": "https://media.api-sports.io/football/teams/520.png"
-              },
-              "points": 3,
-              "goalsDiff": 1,
               "group": "Serie A",
               "form": "W",
               "status": "same",
@@ -221,10 +221,20 @@
                 "lose": 0,
                 "goals": {
                   "for": 2,
-                  "against": 1
+                  "against": 0
                 }
               },
               "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
                 "played": 0,
                 "win": 0,
                 "draw": 0,
@@ -232,16 +242,6 @@
                 "goals": {
                   "for": 0,
                   "against": 0
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 1
                 }
               },
               "update": "2025-08-29T00:00:00+00:00"
@@ -744,9 +744,9 @@
             {
               "rank": 17,
               "team": {
-                "id": 488,
-                "name": "Sassuolo",
-                "logo": "https://media.api-sports.io/football/teams/488.png"
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
               },
               "points": 0,
               "goalsDiff": -2,
@@ -765,16 +765,6 @@
                 }
               },
               "home": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "away": {
                 "played": 0,
                 "win": 0,
                 "draw": 0,
@@ -782,57 +772,22 @@
                 "goals": {
                   "for": 0,
                   "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 2
                 }
               },
               "update": "2025-08-29T00:00:00+00:00"
             },
             {
               "rank": 18,
-              "team": {
-                "id": 487,
-                "name": "Lazio",
-                "logo": "https://media.api-sports.io/football/teams/487.png"
-              },
-              "points": 0,
-              "goalsDiff": -2,
-              "group": "Serie A",
-              "form": "L",
-              "status": "same",
-              "description": "Relegation - Serie B",
-              "all": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "update": "2025-08-29T00:00:00+00:00"
-            },
-            {
-              "rank": 19,
               "team": {
                 "id": 523,
                 "name": "Parma",
@@ -877,7 +832,7 @@
               "update": "2025-08-29T00:00:00+00:00"
             },
             {
-              "rank": 20,
+              "rank": 19,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -917,6 +872,51 @@
                 "goals": {
                   "for": 0,
                   "against": 5
+                }
+              },
+              "update": "2025-08-29T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
+              },
+              "points": 0,
+              "goalsDiff": -3,
+              "group": "Serie A",
+              "form": "LL",
+              "status": "same",
+              "description": "Relegation - Serie B",
+              "all": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
                 }
               },
               "update": "2025-08-29T00:00:00+00:00"
