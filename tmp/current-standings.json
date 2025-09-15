@@ -384,6 +384,51 @@
             {
               "rank": 9,
               "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+              },
+              "points": 4,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "DLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2025-09-15T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
                 "id": 503,
                 "name": "Torino",
                 "logo": "https://media.api-sports.io/football/teams/503.png"
@@ -422,51 +467,6 @@
                 "goals": {
                   "for": 1,
                   "against": 5
-                }
-              },
-              "update": "2025-09-15T00:00:00+00:00"
-            },
-            {
-              "rank": 10,
-              "team": {
-                "id": 895,
-                "name": "Como",
-                "logo": "https://media.api-sports.io/football/teams/895.png"
-              },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "Serie A",
-              "form": "LW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
                 }
               },
               "update": "2025-09-15T00:00:00+00:00"
@@ -654,6 +654,51 @@
             {
               "rank": 15,
               "team": {
+                "id": 495,
+                "name": "Genoa",
+                "logo": "https://media.api-sports.io/football/teams/495.png"
+              },
+              "points": 2,
+              "goalsDiff": -1,
+              "group": "Serie A",
+              "form": "DLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2025-09-15T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
                 "id": 502,
                 "name": "Fiorentina",
                 "logo": "https://media.api-sports.io/football/teams/502.png"
@@ -697,7 +742,7 @@
               "update": "2025-09-15T00:00:00+00:00"
             },
             {
-              "rank": 16,
+              "rank": 17,
               "team": {
                 "id": 504,
                 "name": "Verona",
@@ -737,51 +782,6 @@
                 "goals": {
                   "for": 1,
                   "against": 5
-                }
-              },
-              "update": "2025-09-15T00:00:00+00:00"
-            },
-            {
-              "rank": 17,
-              "team": {
-                "id": 495,
-                "name": "Genoa",
-                "logo": "https://media.api-sports.io/football/teams/495.png"
-              },
-              "points": 1,
-              "goalsDiff": -1,
-              "group": "Serie A",
-              "form": "LD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
                 }
               },
               "update": "2025-09-15T00:00:00+00:00"
