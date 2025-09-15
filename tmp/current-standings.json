@@ -114,6 +114,51 @@
             {
               "rank": 3,
               "team": {
+                "id": 520,
+                "name": "Cremonese",
+                "logo": "https://media.api-sports.io/football/teams/520.png"
+              },
+              "points": 7,
+              "goalsDiff": 2,
+              "group": "Serie A",
+              "form": "DWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2025-09-15T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
                 "id": 494,
                 "name": "Udinese",
                 "logo": "https://media.api-sports.io/football/teams/494.png"
@@ -151,51 +196,6 @@
                 "lose": 0,
                 "goals": {
                   "for": 3,
-                  "against": 1
-                }
-              },
-              "update": "2025-09-15T00:00:00+00:00"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 520,
-                "name": "Cremonese",
-                "logo": "https://media.api-sports.io/football/teams/520.png"
-              },
-              "points": 6,
-              "goalsDiff": 2,
-              "group": "Serie A",
-              "form": "WW",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 5,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
                   "against": 1
                 }
               },
@@ -699,6 +699,51 @@
             {
               "rank": 16,
               "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+              },
+              "points": 2,
+              "goalsDiff": -4,
+              "group": "Serie A",
+              "form": "DLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 5
+                }
+              },
+              "update": "2025-09-15T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
                 "id": 495,
                 "name": "Genoa",
                 "logo": "https://media.api-sports.io/football/teams/495.png"
@@ -737,51 +782,6 @@
                 "goals": {
                   "for": 0,
                   "against": 0
-                }
-              },
-              "update": "2025-09-15T00:00:00+00:00"
-            },
-            {
-              "rank": 17,
-              "team": {
-                "id": 504,
-                "name": "Verona",
-                "logo": "https://media.api-sports.io/football/teams/504.png"
-              },
-              "points": 1,
-              "goalsDiff": -4,
-              "group": "Serie A",
-              "form": "LD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 5
-                }
-              },
-              "home": {
-                "played": 0,
-                "win": 0,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 0,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 5
                 }
               },
               "update": "2025-09-15T00:00:00+00:00"
