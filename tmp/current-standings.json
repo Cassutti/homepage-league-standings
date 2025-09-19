@@ -204,6 +204,51 @@
             {
               "rank": 5,
               "team": {
+                "id": 490,
+                "name": "Cagliari",
+                "logo": "https://media.api-sports.io/football/teams/490.png"
+              },
+              "points": 7,
+              "goalsDiff": 2,
+              "group": "Serie A",
+              "form": "WWLD",
+              "status": "same",
+              "description": "Promotion - Europa League (League phase: )",
+              "all": {
+                "played": 4,
+                "win": 2,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "update": "2025-09-19T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
                 "id": 489,
                 "name": "AC Milan",
                 "logo": "https://media.api-sports.io/football/teams/489.png"
@@ -213,7 +258,7 @@
               "group": "Serie A",
               "form": "WWL",
               "status": "same",
-              "description": "Promotion - Europa League (League phase: )",
+              "description": "Promotion - Conference League (Qualification: )",
               "all": {
                 "played": 3,
                 "win": 2,
@@ -247,7 +292,7 @@
               "update": "2025-09-19T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "team": {
                 "id": 497,
                 "name": "AS Roma",
@@ -258,7 +303,7 @@
               "group": "Serie A",
               "form": "LWW",
               "status": "same",
-              "description": "Promotion - Conference League (Qualification: )",
+              "description": null,
               "all": {
                 "played": 3,
                 "win": 2,
@@ -292,7 +337,7 @@
               "update": "2025-09-19T00:00:00+00:00"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "team": {
                 "id": 499,
                 "name": "Atalanta",
@@ -331,51 +376,6 @@
                 "lose": 0,
                 "goals": {
                   "for": 1,
-                  "against": 1
-                }
-              },
-              "update": "2025-09-19T00:00:00+00:00"
-            },
-            {
-              "rank": 8,
-              "team": {
-                "id": 490,
-                "name": "Cagliari",
-                "logo": "https://media.api-sports.io/football/teams/490.png"
-              },
-              "points": 4,
-              "goalsDiff": 1,
-              "group": "Serie A",
-              "form": "WLD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 3,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 0,
                   "against": 1
                 }
               },
@@ -884,29 +884,29 @@
                 "logo": "https://media.api-sports.io/football/teams/867.png"
               },
               "points": 1,
-              "goalsDiff": -5,
+              "goalsDiff": -6,
               "group": "Serie A",
-              "form": "LLD",
+              "form": "LLLD",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 0,
                 "draw": 1,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
-                  "for": 1,
-                  "against": 6
+                  "for": 2,
+                  "against": 8
                 }
               },
               "home": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
                 "draw": 0,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 0,
-                  "against": 2
+                  "for": 1,
+                  "against": 4
                 }
               },
               "away": {
