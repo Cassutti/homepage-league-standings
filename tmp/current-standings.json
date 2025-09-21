@@ -429,6 +429,51 @@
             {
               "rank": 10,
               "team": {
+                "id": 505,
+                "name": "Inter",
+                "logo": "https://media.api-sports.io/football/teams/505.png"
+              },
+              "points": 6,
+              "goalsDiff": 4,
+              "group": "Serie A",
+              "form": "WLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 2,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "update": "2025-09-21T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
                 "id": 500,
                 "name": "Bologna",
                 "logo": "https://media.api-sports.io/football/teams/500.png"
@@ -472,7 +517,7 @@
               "update": "2025-09-21T00:00:00+00:00"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -517,97 +562,7 @@
               "update": "2025-09-21T00:00:00+00:00"
             },
             {
-              "rank": 12,
-              "team": {
-                "id": 505,
-                "name": "Inter",
-                "logo": "https://media.api-sports.io/football/teams/505.png"
-              },
-              "points": 3,
-              "goalsDiff": 3,
-              "group": "Serie A",
-              "form": "LLW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 9,
-                  "against": 6
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 6,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 3,
-                  "against": 4
-                }
-              },
-              "update": "2025-09-21T00:00:00+00:00"
-            },
-            {
               "rank": 13,
-              "team": {
-                "id": 488,
-                "name": "Sassuolo",
-                "logo": "https://media.api-sports.io/football/teams/488.png"
-              },
-              "points": 3,
-              "goalsDiff": -2,
-              "group": "Serie A",
-              "form": "WLL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 5
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 0,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "update": "2025-09-21T00:00:00+00:00"
-            },
-            {
-              "rank": 14,
               "team": {
                 "id": 487,
                 "name": "Lazio",
@@ -647,6 +602,51 @@
                 "goals": {
                   "for": 0,
                   "against": 3
+                }
+              },
+              "update": "2025-09-21T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
+              },
+              "points": 3,
+              "goalsDiff": -3,
+              "group": "Serie A",
+              "form": "LWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 1,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
                 }
               },
               "update": "2025-09-21T00:00:00+00:00"
