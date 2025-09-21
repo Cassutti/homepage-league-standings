@@ -159,6 +159,51 @@
             {
               "rank": 4,
               "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 9,
+              "goalsDiff": 2,
+              "group": "Serie A",
+              "form": "WLWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 4,
+                "win": 3,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "update": "2025-09-21T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
                 "id": 520,
                 "name": "Cremonese",
                 "logo": "https://media.api-sports.io/football/teams/520.png"
@@ -168,7 +213,7 @@
               "group": "Serie A",
               "form": "DWW",
               "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
+              "description": "Promotion - Europa League (League phase: )",
               "all": {
                 "played": 3,
                 "win": 2,
@@ -202,7 +247,7 @@
               "update": "2025-09-21T00:00:00+00:00"
             },
             {
-              "rank": 5,
+              "rank": 6,
               "team": {
                 "id": 490,
                 "name": "Cagliari",
@@ -213,7 +258,7 @@
               "group": "Serie A",
               "form": "WWLD",
               "status": "same",
-              "description": "Promotion - Europa League (League phase: )",
+              "description": "Promotion - Conference League (Qualification: )",
               "all": {
                 "played": 4,
                 "win": 2,
@@ -247,7 +292,7 @@
               "update": "2025-09-21T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "team": {
                 "id": 494,
                 "name": "Udinese",
@@ -258,7 +303,7 @@
               "group": "Serie A",
               "form": "LWWD",
               "status": "same",
-              "description": "Promotion - Conference League (Qualification: )",
+              "description": null,
               "all": {
                 "played": 4,
                 "win": 2,
@@ -287,51 +332,6 @@
                 "goals": {
                   "for": 3,
                   "against": 1
-                }
-              },
-              "update": "2025-09-21T00:00:00+00:00"
-            },
-            {
-              "rank": 7,
-              "team": {
-                "id": 497,
-                "name": "AS Roma",
-                "logo": "https://media.api-sports.io/football/teams/497.png"
-              },
-              "points": 6,
-              "goalsDiff": 1,
-              "group": "Serie A",
-              "form": "LWW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 2,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 0
                 }
               },
               "update": "2025-09-21T00:00:00+00:00"
@@ -564,51 +564,6 @@
             {
               "rank": 13,
               "team": {
-                "id": 487,
-                "name": "Lazio",
-                "logo": "https://media.api-sports.io/football/teams/487.png"
-              },
-              "points": 3,
-              "goalsDiff": 1,
-              "group": "Serie A",
-              "form": "LWL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 3,
-                "win": 1,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 4,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 4,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 0,
-                  "against": 3
-                }
-              },
-              "update": "2025-09-21T00:00:00+00:00"
-            },
-            {
-              "rank": 14,
-              "team": {
                 "id": 488,
                 "name": "Sassuolo",
                 "logo": "https://media.api-sports.io/football/teams/488.png"
@@ -646,6 +601,51 @@
                 "lose": 1,
                 "goals": {
                   "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2025-09-21T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
+              },
+              "points": 3,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "LLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 4,
+                "win": 1,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 0,
                   "against": 3
                 }
               },
