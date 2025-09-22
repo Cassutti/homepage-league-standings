@@ -24,6 +24,55 @@
             {
               "rank": 1,
               "team": {
+                "id": 492,
+                "name": "Napoli",
+                "logo": "https://media.api-sports.io/football/teams/492.png"
+              },
+              "points": 12,
+              "goalsDiff": 6,
+              "group": "Serie A",
+              "form": "WWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 4,
+                "win": 4,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "update": "2025-09-22T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 1,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 2,
+              "team": {
                 "id": 496,
                 "name": "Juventus",
                 "logo": "https://media.api-sports.io/football/teams/496.png"
@@ -68,55 +117,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 4,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 2,
-              "team": {
-                "id": 492,
-                "name": "Napoli",
-                "logo": "https://media.api-sports.io/football/teams/492.png"
-              },
-              "points": 9,
-              "goalsDiff": 5,
-              "group": "Serie A",
-              "form": "WWW",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 3,
-                "win": 3,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 6,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 1,
-                "win": 1,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 0
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 5,
-                  "against": 1
-                }
-              },
-              "update": "2025-09-22T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 1,
               "nextUp": "TBD"
             },
             {
@@ -911,19 +911,19 @@
                 "logo": "https://media.api-sports.io/football/teams/801.png"
               },
               "points": 1,
-              "goalsDiff": -2,
+              "goalsDiff": -3,
               "group": "Serie A",
-              "form": "LLD",
+              "form": "LLLD",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 3,
+                "played": 4,
                 "win": 0,
                 "draw": 1,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
-                  "for": 1,
-                  "against": 3
+                  "for": 3,
+                  "against": 6
                 }
               },
               "home": {
@@ -937,13 +937,13 @@
                 }
               },
               "away": {
-                "played": 1,
+                "played": 2,
                 "win": 0,
                 "draw": 1,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 1,
-                  "against": 1
+                  "for": 3,
+                  "against": 4
                 }
               },
               "update": "2025-09-22T00:00:00+00:00",
