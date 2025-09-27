@@ -204,6 +204,51 @@
             {
               "rank": 5,
               "team": {
+                "id": 505,
+                "name": "Inter",
+                "logo": "https://media.api-sports.io/football/teams/505.png"
+              },
+              "points": 9,
+              "goalsDiff": 6,
+              "group": "Serie A",
+              "form": "WWLLW",
+              "status": "same",
+              "description": "Promotion - Europa League (League phase: )",
+              "all": {
+                "played": 5,
+                "win": 3,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 13,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "update": "2025-09-27T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
                 "id": 499,
                 "name": "Atalanta",
                 "logo": "https://media.api-sports.io/football/teams/499.png"
@@ -213,7 +258,7 @@
               "group": "Serie A",
               "form": "DWWDD",
               "status": "same",
-              "description": "Promotion - Europa League (League phase: )",
+              "description": "Promotion - Conference League (Qualification: )",
               "all": {
                 "played": 5,
                 "win": 2,
@@ -247,7 +292,7 @@
               "update": "2025-09-27T00:00:00+00:00"
             },
             {
-              "rank": 6,
+              "rank": 7,
               "team": {
                 "id": 520,
                 "name": "Cremonese",
@@ -258,7 +303,7 @@
               "group": "Serie A",
               "form": "DDDWW",
               "status": "same",
-              "description": "Promotion - Conference League (Qualification: )",
+              "description": null,
               "all": {
                 "played": 5,
                 "win": 2,
@@ -292,7 +337,7 @@
               "update": "2025-09-27T00:00:00+00:00"
             },
             {
-              "rank": 7,
+              "rank": 8,
               "team": {
                 "id": 895,
                 "name": "Como",
@@ -322,51 +367,6 @@
                 "goals": {
                   "for": 4,
                   "against": 2
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 2
-                }
-              },
-              "update": "2025-09-27T00:00:00+00:00"
-            },
-            {
-              "rank": 8,
-              "team": {
-                "id": 490,
-                "name": "Cagliari",
-                "logo": "https://media.api-sports.io/football/teams/490.png"
-              },
-              "points": 7,
-              "goalsDiff": 2,
-              "group": "Serie A",
-              "form": "WWLD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 5,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 1
                 }
               },
               "away": {
@@ -429,44 +429,44 @@
             {
               "rank": 10,
               "team": {
-                "id": 505,
-                "name": "Inter",
-                "logo": "https://media.api-sports.io/football/teams/505.png"
+                "id": 490,
+                "name": "Cagliari",
+                "logo": "https://media.api-sports.io/football/teams/490.png"
               },
-              "points": 6,
-              "goalsDiff": 4,
+              "points": 7,
+              "goalsDiff": 0,
               "group": "Serie A",
-              "form": "WLLW",
+              "form": "LWWLD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 2,
-                "draw": 0,
+                "draw": 1,
                 "lose": 2,
                 "goals": {
-                  "for": 11,
-                  "against": 7
+                  "for": 5,
+                  "against": 5
                 }
               },
               "home": {
                 "played": 3,
-                "win": 2,
-                "draw": 0,
+                "win": 1,
+                "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 8,
+                  "for": 3,
                   "against": 3
                 }
               },
               "away": {
-                "played": 1,
-                "win": 0,
+                "played": 2,
+                "win": 1,
                 "draw": 0,
                 "lose": 1,
                 "goals": {
-                  "for": 3,
-                  "against": 4
+                  "for": 2,
+                  "against": 2
                 }
               },
               "update": "2025-09-27T00:00:00+00:00"
