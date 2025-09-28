@@ -384,6 +384,51 @@
             {
               "rank": 9,
               "team": {
+                "id": 500,
+                "name": "Bologna",
+                "logo": "https://media.api-sports.io/football/teams/500.png"
+              },
+              "points": 7,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "DWLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
                 "id": 490,
                 "name": "Cagliari",
                 "logo": "https://media.api-sports.io/football/teams/490.png"
@@ -427,7 +472,7 @@
               "update": "2025-09-28T00:00:00+00:00"
             },
             {
-              "rank": 10,
+              "rank": 11,
               "team": {
                 "id": 494,
                 "name": "Udinese",
@@ -467,51 +512,6 @@
                 "goals": {
                   "for": 4,
                   "against": 4
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00"
-            },
-            {
-              "rank": 11,
-              "team": {
-                "id": 500,
-                "name": "Bologna",
-                "logo": "https://media.api-sports.io/football/teams/500.png"
-              },
-              "points": 6,
-              "goalsDiff": 0,
-              "group": "Serie A",
-              "form": "WLWL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 0,
-                  "against": 2
                 }
               },
               "update": "2025-09-28T00:00:00+00:00"
@@ -883,30 +883,30 @@
                 "name": "Lecce",
                 "logo": "https://media.api-sports.io/football/teams/867.png"
               },
-              "points": 1,
+              "points": 2,
               "goalsDiff": -6,
               "group": "Serie A",
-              "form": "LLLD",
+              "form": "DLLLD",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 3,
                 "goals": {
-                  "for": 2,
-                  "against": 8
+                  "for": 4,
+                  "against": 10
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 0,
+                "draw": 1,
                 "lose": 2,
                 "goals": {
-                  "for": 1,
-                  "against": 4
+                  "for": 3,
+                  "against": 6
                 }
               },
               "away": {
