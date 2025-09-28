@@ -24,24 +24,73 @@
             {
               "rank": 1,
               "team": {
+                "id": 489,
+                "name": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png"
+              },
+              "points": 12,
+              "goalsDiff": 6,
+              "group": "Serie A",
+              "form": "WWWWL",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 5,
+                "win": 4,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 9,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 8,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 2,
+              "team": {
                 "id": 492,
                 "name": "Napoli",
                 "logo": "https://media.api-sports.io/football/teams/492.png"
               },
               "points": 12,
-              "goalsDiff": 6,
+              "goalsDiff": 5,
               "group": "Serie A",
-              "form": "WWWW",
+              "form": "LWWWW",
               "status": "same",
               "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 4,
                 "draw": 0,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 9,
-                  "against": 3
+                  "for": 10,
+                  "against": 5
                 }
               },
               "home": {
@@ -55,13 +104,13 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 2,
                 "draw": 0,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 5,
-                  "against": 1
+                  "for": 6,
+                  "against": 3
                 }
               },
               "update": "2025-09-28T00:00:00+00:00",
@@ -71,7 +120,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "team": {
                 "id": 497,
                 "name": "AS Roma",
@@ -120,7 +169,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 496,
                 "name": "Juventus",
@@ -166,55 +215,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 4,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 489,
-                "name": "AC Milan",
-                "logo": "https://media.api-sports.io/football/teams/489.png"
-              },
-              "points": 9,
-              "goalsDiff": 5,
-              "group": "Serie A",
-              "form": "WWWL",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 4,
-                "win": 3,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 7,
-                  "against": 2
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 5,
-                  "against": 0
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 8,
               "nextUp": "TBD"
             },
             {
