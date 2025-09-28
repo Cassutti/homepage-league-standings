@@ -384,51 +384,6 @@
             {
               "rank": 9,
               "team": {
-                "id": 494,
-                "name": "Udinese",
-                "logo": "https://media.api-sports.io/football/teams/494.png"
-              },
-              "points": 7,
-              "goalsDiff": -1,
-              "group": "Serie A",
-              "form": "LWWD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 4,
-                  "against": 5
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 3,
-                  "against": 1
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00"
-            },
-            {
-              "rank": 10,
-              "team": {
                 "id": 490,
                 "name": "Cagliari",
                 "logo": "https://media.api-sports.io/football/teams/490.png"
@@ -467,6 +422,51 @@
                 "goals": {
                   "for": 2,
                   "against": 2
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 494,
+                "name": "Udinese",
+                "logo": "https://media.api-sports.io/football/teams/494.png"
+              },
+              "points": 7,
+              "goalsDiff": -3,
+              "group": "Serie A",
+              "form": "LLWWD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
                 }
               },
               "update": "2025-09-28T00:00:00+00:00"
@@ -519,6 +519,51 @@
             {
               "rank": 12,
               "team": {
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
+              },
+              "points": 6,
+              "goalsDiff": -1,
+              "group": "Serie A",
+              "form": "WLWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 5,
+                "win": 2,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 7,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
                 "id": 503,
                 "name": "Torino",
                 "logo": "https://media.api-sports.io/football/teams/503.png"
@@ -562,7 +607,7 @@
               "update": "2025-09-28T00:00:00+00:00"
             },
             {
-              "rank": 13,
+              "rank": 14,
               "team": {
                 "id": 487,
                 "name": "Lazio",
@@ -602,51 +647,6 @@
                 "goals": {
                   "for": 0,
                   "against": 3
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00"
-            },
-            {
-              "rank": 14,
-              "team": {
-                "id": 488,
-                "name": "Sassuolo",
-                "logo": "https://media.api-sports.io/football/teams/488.png"
-              },
-              "points": 3,
-              "goalsDiff": -3,
-              "group": "Serie A",
-              "form": "LWLL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 4,
-                "win": 1,
-                "draw": 0,
-                "lose": 3,
-                "goals": {
-                  "for": 4,
-                  "against": 7
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 5
                 }
               },
               "update": "2025-09-28T00:00:00+00:00"
