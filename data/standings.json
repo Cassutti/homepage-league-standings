@@ -73,6 +73,55 @@
             {
               "rank": 2,
               "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 12,
+              "goalsDiff": 4,
+              "group": "Serie A",
+              "form": "WWLWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 5,
+                "win": 4,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 5,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 3,
+              "team": {
                 "id": 496,
                 "name": "Juventus",
                 "logo": "https://media.api-sports.io/football/teams/496.png"
@@ -120,7 +169,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 489,
                 "name": "AC Milan",
@@ -166,55 +215,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 8,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 497,
-                "name": "AS Roma",
-                "logo": "https://media.api-sports.io/football/teams/497.png"
-              },
-              "points": 9,
-              "goalsDiff": 2,
-              "group": "Serie A",
-              "form": "WLWW",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 4,
-                "win": 3,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 3,
-                  "against": 1
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 1,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 1,
-                  "against": 1
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 2,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 2,
-                  "against": 0
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 5,
               "nextUp": "TBD"
             },
             {
@@ -710,24 +710,73 @@
             {
               "rank": 15,
               "team": {
+                "id": 502,
+                "name": "Fiorentina",
+                "logo": "https://media.api-sports.io/football/teams/502.png"
+              },
+              "points": 3,
+              "goalsDiff": -3,
+              "group": "Serie A",
+              "form": "DLLDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 5,
+                "win": 0,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 3,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2025-09-28T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 6,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 16,
+              "team": {
                 "id": 504,
                 "name": "Verona",
                 "logo": "https://media.api-sports.io/football/teams/504.png"
               },
               "points": 3,
-              "goalsDiff": -4,
+              "goalsDiff": -6,
               "group": "Serie A",
-              "form": "DDLD",
+              "form": "LDDLD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
                 "draw": 3,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 2,
-                  "against": 6
+                  "against": 8
                 }
               },
               "home": {
@@ -741,13 +790,13 @@
                 }
               },
               "away": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
                 "draw": 1,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 1,
-                  "against": 5
+                  "against": 7
                 }
               },
               "update": "2025-09-28T00:00:00+00:00",
@@ -757,7 +806,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 16,
+              "rank": 17,
               "team": {
                 "id": 495,
                 "name": "Genoa",
@@ -803,55 +852,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 13,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 17,
-              "team": {
-                "id": 502,
-                "name": "Fiorentina",
-                "logo": "https://media.api-sports.io/football/teams/502.png"
-              },
-              "points": 2,
-              "goalsDiff": -3,
-              "group": "Serie A",
-              "form": "LLDD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 4,
-                "win": 0,
-                "draw": 2,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 6
-                }
-              },
-              "home": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 2,
-                  "against": 5
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 1,
-                  "against": 1
-                }
-              },
-              "update": "2025-09-28T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 6,
               "nextUp": "TBD"
             },
             {
@@ -910,16 +910,16 @@
                 "name": "Pisa",
                 "logo": "https://media.api-sports.io/football/teams/801.png"
               },
-              "points": 1,
+              "points": 2,
               "goalsDiff": -3,
               "group": "Serie A",
-              "form": "LLLD",
+              "form": "DLLLD",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
-                "draw": 1,
+                "draw": 2,
                 "lose": 3,
                 "goals": {
                   "for": 3,
@@ -927,9 +927,9 @@
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
-                "draw": 0,
+                "draw": 1,
                 "lose": 2,
                 "goals": {
                   "for": 0,
