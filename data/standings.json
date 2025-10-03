@@ -367,6 +367,55 @@
             {
               "rank": 8,
               "team": {
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
+              },
+              "points": 9,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "WWLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 8,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "update": "2025-10-03T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie B",
+              "lastSeasonPosition": 1,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 9,
+              "team": {
                 "id": 895,
                 "name": "Como",
                 "logo": "https://media.api-sports.io/football/teams/895.png"
@@ -414,7 +463,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "team": {
                 "id": 500,
                 "name": "Bologna",
@@ -463,7 +512,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 10,
+              "rank": 11,
               "team": {
                 "id": 490,
                 "name": "Cagliari",
@@ -512,7 +561,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 494,
                 "name": "Udinese",
@@ -561,7 +610,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 12,
+              "rank": 13,
               "team": {
                 "id": 487,
                 "name": "Lazio",
@@ -607,55 +656,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 7,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 13,
-              "team": {
-                "id": 488,
-                "name": "Sassuolo",
-                "logo": "https://media.api-sports.io/football/teams/488.png"
-              },
-              "points": 6,
-              "goalsDiff": -1,
-              "group": "Serie A",
-              "form": "WLWLL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 5,
-                "win": 2,
-                "draw": 0,
-                "lose": 3,
-                "goals": {
-                  "for": 7,
-                  "against": 8
-                }
-              },
-              "home": {
-                "played": 3,
-                "win": 2,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 4,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 2,
-                "win": 0,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 5
-                }
-              },
-              "update": "2025-10-03T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie B",
-              "lastSeasonPosition": 1,
               "nextUp": "TBD"
             },
             {
@@ -813,29 +813,29 @@
                 "logo": "https://media.api-sports.io/football/teams/504.png"
               },
               "points": 3,
-              "goalsDiff": -6,
+              "goalsDiff": -7,
               "group": "Serie A",
-              "form": "LDDLD",
+              "form": "LLDDL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 5,
+                "played": 6,
                 "win": 0,
                 "draw": 3,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
                   "for": 2,
-                  "against": 8
+                  "against": 9
                 }
               },
               "home": {
-                "played": 2,
+                "played": 3,
                 "win": 0,
                 "draw": 2,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
                   "for": 1,
-                  "against": 1
+                  "against": 2
                 }
               },
               "away": {
