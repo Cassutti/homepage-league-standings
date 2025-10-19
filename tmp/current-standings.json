@@ -24,6 +24,51 @@
             {
               "rank": 1,
               "team": {
+                "id": 489,
+                "name": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png"
+              },
+              "points": 16,
+              "goalsDiff": 7,
+              "group": "Serie A",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 7,
+                "win": 5,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 11,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 3,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "update": "2025-10-19T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
                 "id": 505,
                 "name": "Inter",
                 "logo": "https://media.api-sports.io/football/teams/505.png"
@@ -67,7 +112,7 @@
               "update": "2025-10-19T00:00:00+00:00"
             },
             {
-              "rank": 2,
+              "rank": 3,
               "team": {
                 "id": 492,
                 "name": "Napoli",
@@ -112,7 +157,7 @@
               "update": "2025-10-19T00:00:00+00:00"
             },
             {
-              "rank": 3,
+              "rank": 4,
               "team": {
                 "id": 497,
                 "name": "AS Roma",
@@ -152,51 +197,6 @@
                 "goals": {
                   "for": 4,
                   "against": 1
-                }
-              },
-              "update": "2025-10-19T00:00:00+00:00"
-            },
-            {
-              "rank": 4,
-              "team": {
-                "id": 489,
-                "name": "AC Milan",
-                "logo": "https://media.api-sports.io/football/teams/489.png"
-              },
-              "points": 13,
-              "goalsDiff": 6,
-              "group": "Serie A",
-              "form": "DWWWW",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 6,
-                "win": 4,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 9,
-                  "against": 3
-                }
-              },
-              "home": {
-                "played": 3,
-                "win": 2,
-                "draw": 0,
-                "lose": 1,
-                "goals": {
-                  "for": 4,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 3,
-                "win": 2,
-                "draw": 1,
-                "lose": 0,
-                "goals": {
-                  "for": 5,
-                  "against": 0
                 }
               },
               "update": "2025-10-19T00:00:00+00:00"
@@ -794,19 +794,19 @@
                 "logo": "https://media.api-sports.io/football/teams/502.png"
               },
               "points": 3,
-              "goalsDiff": -4,
+              "goalsDiff": -5,
               "group": "Serie A",
-              "form": "LDLLD",
+              "form": "LLDLL",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 6,
+                "played": 7,
                 "win": 0,
                 "draw": 3,
-                "lose": 3,
+                "lose": 4,
                 "goals": {
-                  "for": 4,
-                  "against": 8
+                  "for": 5,
+                  "against": 10
                 }
               },
               "home": {
@@ -820,13 +820,13 @@
                 }
               },
               "away": {
-                "played": 3,
+                "played": 4,
                 "win": 0,
                 "draw": 3,
-                "lose": 0,
+                "lose": 1,
                 "goals": {
-                  "for": 1,
-                  "against": 1
+                  "for": 2,
+                  "against": 3
                 }
               },
               "update": "2025-10-19T00:00:00+00:00"
