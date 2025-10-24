@@ -28,30 +28,30 @@
                 "name": "AC Milan",
                 "logo": "https://media.api-sports.io/football/teams/489.png"
               },
-              "points": 16,
+              "points": 17,
               "goalsDiff": 7,
               "group": "Serie A",
-              "form": "WDWWW",
+              "form": "DWDWW",
               "status": "same",
               "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 7,
+                "played": 8,
                 "win": 5,
-                "draw": 1,
+                "draw": 2,
                 "lose": 1,
                 "goals": {
-                  "for": 11,
-                  "against": 4
+                  "for": 13,
+                  "against": 6
                 }
               },
               "home": {
-                "played": 4,
+                "played": 5,
                 "win": 3,
-                "draw": 0,
+                "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 6,
-                  "against": 4
+                  "for": 8,
+                  "against": 6
                 }
               },
               "away": {
@@ -789,6 +789,51 @@
             {
               "rank": 18,
               "team": {
+                "id": 801,
+                "name": "Pisa",
+                "logo": "https://media.api-sports.io/football/teams/801.png"
+              },
+              "points": 4,
+              "goalsDiff": -7,
+              "group": "Serie A",
+              "form": "DDLDL",
+              "status": "same",
+              "description": "Relegation - Serie B",
+              "all": {
+                "played": 8,
+                "win": 0,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 5,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 0,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 0,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 4,
+                "win": 0,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 10
+                }
+              },
+              "update": "2025-10-24T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
                 "id": 502,
                 "name": "Fiorentina",
                 "logo": "https://media.api-sports.io/football/teams/502.png"
@@ -832,7 +877,7 @@
               "update": "2025-10-24T00:00:00+00:00"
             },
             {
-              "rank": 19,
+              "rank": 20,
               "team": {
                 "id": 495,
                 "name": "Genoa",
@@ -872,51 +917,6 @@
                 "goals": {
                   "for": 3,
                   "against": 5
-                }
-              },
-              "update": "2025-10-24T00:00:00+00:00"
-            },
-            {
-              "rank": 20,
-              "team": {
-                "id": 801,
-                "name": "Pisa",
-                "logo": "https://media.api-sports.io/football/teams/801.png"
-              },
-              "points": 3,
-              "goalsDiff": -7,
-              "group": "Serie A",
-              "form": "DLDLL",
-              "status": "same",
-              "description": "Relegation - Serie B",
-              "all": {
-                "played": 7,
-                "win": 0,
-                "draw": 3,
-                "lose": 4,
-                "goals": {
-                  "for": 3,
-                  "against": 10
-                }
-              },
-              "home": {
-                "played": 4,
-                "win": 0,
-                "draw": 2,
-                "lose": 2,
-                "goals": {
-                  "for": 0,
-                  "against": 2
-                }
-              },
-              "away": {
-                "played": 3,
-                "win": 0,
-                "draw": 1,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 8
                 }
               },
               "update": "2025-10-24T00:00:00+00:00"
