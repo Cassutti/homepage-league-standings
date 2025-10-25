@@ -253,16 +253,16 @@
                 "name": "Como",
                 "logo": "https://media.api-sports.io/football/teams/895.png"
               },
-              "points": 12,
+              "points": 13,
               "goalsDiff": 4,
               "group": "Serie A",
-              "form": "WDDWD",
+              "form": "DWDDW",
               "status": "same",
               "description": "Promotion - Conference League (Qualification: )",
               "all": {
-                "played": 7,
+                "played": 8,
                 "win": 3,
-                "draw": 3,
+                "draw": 4,
                 "lose": 1,
                 "goals": {
                   "for": 9,
@@ -280,9 +280,9 @@
                 }
               },
               "away": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
-                "draw": 1,
+                "draw": 2,
                 "lose": 1,
                 "goals": {
                   "for": 3,
@@ -339,6 +339,51 @@
             {
               "rank": 8,
               "team": {
+                "id": 494,
+                "name": "Udinese",
+                "logo": "https://media.api-sports.io/football/teams/494.png"
+              },
+              "points": 12,
+              "goalsDiff": -2,
+              "group": "Serie A",
+              "form": "WDDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 8,
+                "win": 3,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 10,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 1,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 4,
+                "win": 2,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "update": "2025-10-25T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
                 "id": 499,
                 "name": "Atalanta",
                 "logo": "https://media.api-sports.io/football/teams/499.png"
@@ -382,7 +427,7 @@
               "update": "2025-10-25T00:00:00+00:00"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "team": {
                 "id": 488,
                 "name": "Sassuolo",
@@ -427,7 +472,7 @@
               "update": "2025-10-25T00:00:00+00:00"
             },
             {
-              "rank": 10,
+              "rank": 11,
               "team": {
                 "id": 520,
                 "name": "Cremonese",
@@ -467,51 +512,6 @@
                 "goals": {
                   "for": 4,
                   "against": 6
-                }
-              },
-              "update": "2025-10-25T00:00:00+00:00"
-            },
-            {
-              "rank": 11,
-              "team": {
-                "id": 494,
-                "name": "Udinese",
-                "logo": "https://media.api-sports.io/football/teams/494.png"
-              },
-              "points": 9,
-              "goalsDiff": -3,
-              "group": "Serie A",
-              "form": "DDLLW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 7,
-                "win": 2,
-                "draw": 3,
-                "lose": 2,
-                "goals": {
-                  "for": 7,
-                  "against": 10
-                }
-              },
-              "home": {
-                "played": 3,
-                "win": 0,
-                "draw": 2,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 5
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 5,
-                  "against": 5
                 }
               },
               "update": "2025-10-25T00:00:00+00:00"
@@ -658,16 +658,16 @@
                 "name": "Parma",
                 "logo": "https://media.api-sports.io/football/teams/523.png"
               },
-              "points": 6,
+              "points": 7,
               "goalsDiff": -4,
               "group": "Serie A",
-              "form": "DLWDL",
+              "form": "DDLWD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 7,
+                "played": 8,
                 "win": 1,
-                "draw": 3,
+                "draw": 4,
                 "lose": 3,
                 "goals": {
                   "for": 3,
@@ -675,9 +675,9 @@
                 }
               },
               "home": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
-                "draw": 1,
+                "draw": 2,
                 "lose": 1,
                 "goals": {
                   "for": 3,
@@ -704,19 +704,19 @@
                 "logo": "https://media.api-sports.io/football/teams/867.png"
               },
               "points": 6,
-              "goalsDiff": -5,
+              "goalsDiff": -6,
               "group": "Serie A",
-              "form": "DWDLL",
+              "form": "LDWDL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 7,
+                "played": 8,
                 "win": 1,
                 "draw": 3,
-                "lose": 3,
+                "lose": 4,
                 "goals": {
-                  "for": 5,
-                  "against": 10
+                  "for": 7,
+                  "against": 13
                 }
               },
               "home": {
@@ -730,13 +730,13 @@
                 }
               },
               "away": {
-                "played": 3,
+                "played": 4,
                 "win": 1,
                 "draw": 1,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
-                  "for": 2,
-                  "against": 4
+                  "for": 4,
+                  "against": 7
                 }
               },
               "update": "2025-10-25T00:00:00+00:00"
