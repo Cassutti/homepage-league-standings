@@ -318,55 +318,6 @@
             {
               "rank": 7,
               "team": {
-                "id": 496,
-                "name": "Juventus",
-                "logo": "https://media.api-sports.io/football/teams/496.png"
-              },
-              "points": 12,
-              "goalsDiff": 2,
-              "group": "Serie A",
-              "form": "LDDDW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 7,
-                "win": 3,
-                "draw": 3,
-                "lose": 1,
-                "goals": {
-                  "for": 9,
-                  "against": 7
-                }
-              },
-              "home": {
-                "played": 4,
-                "win": 2,
-                "draw": 2,
-                "lose": 0,
-                "goals": {
-                  "for": 7,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 3,
-                "win": 1,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
-                }
-              },
-              "update": "2025-10-26T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 4,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 8,
-              "team": {
                 "id": 499,
                 "name": "Atalanta",
                 "logo": "https://media.api-sports.io/football/teams/499.png"
@@ -411,6 +362,55 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 3,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 496,
+                "name": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png"
+              },
+              "points": 12,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "LLDDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 8,
+                "win": 3,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 2,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 4,
+                "win": 1,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "update": "2025-10-26T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 4,
               "nextUp": "TBD"
             },
             {
@@ -465,6 +465,55 @@
             {
               "rank": 10,
               "team": {
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
+              },
+              "points": 11,
+              "goalsDiff": 4,
+              "group": "Serie A",
+              "form": "WDDWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 8,
+                "win": 3,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 2,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 4,
+                "win": 1,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "update": "2025-10-26T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 7,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 11,
+              "team": {
                 "id": 520,
                 "name": "Cremonese",
                 "logo": "https://media.api-sports.io/football/teams/520.png"
@@ -512,7 +561,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -561,7 +610,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 12,
+              "rank": 13,
               "team": {
                 "id": 488,
                 "name": "Sassuolo",
@@ -610,7 +659,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 13,
+              "rank": 14,
               "team": {
                 "id": 490,
                 "name": "Cagliari",
@@ -656,55 +705,6 @@
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 15,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 14,
-              "team": {
-                "id": 487,
-                "name": "Lazio",
-                "logo": "https://media.api-sports.io/football/teams/487.png"
-              },
-              "points": 8,
-              "goalsDiff": 3,
-              "group": "Serie A",
-              "form": "DDWLL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 7,
-                "win": 2,
-                "draw": 2,
-                "lose": 3,
-                "goals": {
-                  "for": 10,
-                  "against": 7
-                }
-              },
-              "home": {
-                "played": 3,
-                "win": 1,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 7,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 1,
-                "draw": 1,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 3
-                }
-              },
-              "update": "2025-10-26T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 7,
               "nextUp": "TBD"
             },
             {
