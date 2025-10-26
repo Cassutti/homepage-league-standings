@@ -208,20 +208,20 @@
                 "name": "Bologna",
                 "logo": "https://media.api-sports.io/football/teams/500.png"
               },
-              "points": 13,
+              "points": 14,
               "goalsDiff": 6,
               "group": "Serie A",
-              "form": "WWDWL",
+              "form": "DWWDW",
               "status": "same",
               "description": "Promotion - Europa League (League phase: )",
               "all": {
-                "played": 7,
+                "played": 8,
                 "win": 4,
-                "draw": 1,
+                "draw": 2,
                 "lose": 2,
                 "goals": {
-                  "for": 11,
-                  "against": 5
+                  "for": 13,
+                  "against": 7
                 }
               },
               "home": {
@@ -235,13 +235,13 @@
                 }
               },
               "away": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
-                "draw": 1,
+                "draw": 2,
                 "lose": 2,
                 "goals": {
-                  "for": 4,
-                  "against": 4
+                  "for": 6,
+                  "against": 6
                 }
               },
               "update": "2025-10-26T00:00:00+00:00"
@@ -789,6 +789,51 @@
             {
               "rank": 18,
               "team": {
+                "id": 502,
+                "name": "Fiorentina",
+                "logo": "https://media.api-sports.io/football/teams/502.png"
+              },
+              "points": 4,
+              "goalsDiff": -5,
+              "group": "Serie A",
+              "form": "DLLDL",
+              "status": "same",
+              "description": "Relegation - Serie B",
+              "all": {
+                "played": 8,
+                "win": 0,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 0,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 5,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 4,
+                "win": 0,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2025-10-26T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
                 "id": 801,
                 "name": "Pisa",
                 "logo": "https://media.api-sports.io/football/teams/801.png"
@@ -827,51 +872,6 @@
                 "goals": {
                   "for": 5,
                   "against": 10
-                }
-              },
-              "update": "2025-10-26T00:00:00+00:00"
-            },
-            {
-              "rank": 19,
-              "team": {
-                "id": 502,
-                "name": "Fiorentina",
-                "logo": "https://media.api-sports.io/football/teams/502.png"
-              },
-              "points": 3,
-              "goalsDiff": -5,
-              "group": "Serie A",
-              "form": "LLDLL",
-              "status": "same",
-              "description": "Relegation - Serie B",
-              "all": {
-                "played": 7,
-                "win": 0,
-                "draw": 3,
-                "lose": 4,
-                "goals": {
-                  "for": 5,
-                  "against": 10
-                }
-              },
-              "home": {
-                "played": 3,
-                "win": 0,
-                "draw": 0,
-                "lose": 3,
-                "goals": {
-                  "for": 3,
-                  "against": 7
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 0,
-                "draw": 3,
-                "lose": 1,
-                "goals": {
-                  "for": 2,
-                  "against": 3
                 }
               },
               "update": "2025-10-26T00:00:00+00:00"
