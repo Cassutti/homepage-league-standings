@@ -28,19 +28,19 @@
                 "name": "Napoli",
                 "logo": "https://media.api-sports.io/football/teams/492.png"
               },
-              "points": 18,
-              "goalsDiff": 7,
+              "points": 21,
+              "goalsDiff": 8,
               "group": "Serie A",
-              "form": "WLWLW",
+              "form": "WWLWL",
               "status": "same",
               "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 8,
-                "win": 6,
+                "played": 9,
+                "win": 7,
                 "draw": 0,
                 "lose": 2,
                 "goals": {
-                  "for": 15,
+                  "for": 16,
                   "against": 8
                 }
               },
@@ -55,12 +55,12 @@
                 }
               },
               "away": {
-                "played": 4,
-                "win": 2,
+                "played": 5,
+                "win": 3,
                 "draw": 0,
                 "lose": 2,
                 "goals": {
-                  "for": 6,
+                  "for": 7,
                   "against": 4
                 }
               },
@@ -704,29 +704,29 @@
                 "logo": "https://media.api-sports.io/football/teams/867.png"
               },
               "points": 6,
-              "goalsDiff": -6,
+              "goalsDiff": -7,
               "group": "Serie A",
-              "form": "LDWDL",
+              "form": "LLDWD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 8,
+                "played": 9,
                 "win": 1,
                 "draw": 3,
-                "lose": 4,
+                "lose": 5,
                 "goals": {
                   "for": 7,
-                  "against": 13
+                  "against": 14
                 }
               },
               "home": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
                 "draw": 2,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
                   "for": 3,
-                  "against": 6
+                  "against": 7
                 }
               },
               "away": {
