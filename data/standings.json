@@ -465,6 +465,55 @@
             {
               "rank": 10,
               "team": {
+                "id": 488,
+                "name": "Sassuolo",
+                "logo": "https://media.api-sports.io/football/teams/488.png"
+              },
+              "points": 13,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "WLDWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 9,
+                "win": 4,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 10,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 4,
+                "win": 2,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 6,
+                  "against": 6
+                }
+              },
+              "update": "2025-10-30T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie B",
+              "lastSeasonPosition": 1,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 11,
+              "team": {
                 "id": 494,
                 "name": "Udinese",
                 "logo": "https://media.api-sports.io/football/teams/494.png"
@@ -512,7 +561,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -561,7 +610,7 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 12,
+              "rank": 13,
               "team": {
                 "id": 487,
                 "name": "Lazio",
@@ -610,55 +659,6 @@
               "nextUp": "TBD"
             },
             {
-              "rank": 13,
-              "team": {
-                "id": 488,
-                "name": "Sassuolo",
-                "logo": "https://media.api-sports.io/football/teams/488.png"
-              },
-              "points": 10,
-              "goalsDiff": -1,
-              "group": "Serie A",
-              "form": "LDWWL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 8,
-                "win": 3,
-                "draw": 1,
-                "lose": 4,
-                "goals": {
-                  "for": 8,
-                  "against": 9
-                }
-              },
-              "home": {
-                "played": 4,
-                "win": 2,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 4,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 1,
-                "draw": 1,
-                "lose": 2,
-                "goals": {
-                  "for": 4,
-                  "against": 5
-                }
-              },
-              "update": "2025-10-30T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie B",
-              "lastSeasonPosition": 1,
-              "nextUp": "TBD"
-            },
-            {
               "rank": 14,
               "team": {
                 "id": 490,
@@ -666,29 +666,29 @@
                 "logo": "https://media.api-sports.io/football/teams/490.png"
               },
               "points": 9,
-              "goalsDiff": -2,
+              "goalsDiff": -3,
               "group": "Serie A",
-              "form": "DLDLW",
+              "form": "LDLDL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 8,
+                "played": 9,
                 "win": 2,
                 "draw": 3,
-                "lose": 3,
+                "lose": 4,
                 "goals": {
-                  "for": 8,
-                  "against": 10
+                  "for": 9,
+                  "against": 12
                 }
               },
               "home": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
                 "draw": 1,
-                "lose": 2,
+                "lose": 3,
                 "goals": {
-                  "for": 3,
-                  "against": 5
+                  "for": 4,
+                  "against": 7
                 }
               },
               "away": {
