@@ -519,6 +519,51 @@
             {
               "rank": 12,
               "team": {
+                "id": 503,
+                "name": "Torino",
+                "logo": "https://media.api-sports.io/football/teams/503.png"
+              },
+              "points": 13,
+              "goalsDiff": -6,
+              "group": "Serie A",
+              "form": "DDWWD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 10,
+                "win": 3,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 16
+                }
+              },
+              "home": {
+                "played": 5,
+                "win": 2,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 5,
+                "win": 1,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 10
+                }
+              },
+              "update": "2025-11-02T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
                 "id": 487,
                 "name": "Lazio",
                 "logo": "https://media.api-sports.io/football/teams/487.png"
@@ -557,51 +602,6 @@
                 "goals": {
                   "for": 3,
                   "against": 3
-                }
-              },
-              "update": "2025-11-02T00:00:00+00:00"
-            },
-            {
-              "rank": 13,
-              "team": {
-                "id": 503,
-                "name": "Torino",
-                "logo": "https://media.api-sports.io/football/teams/503.png"
-              },
-              "points": 12,
-              "goalsDiff": -6,
-              "group": "Serie A",
-              "form": "DWWDL",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 9,
-                "win": 3,
-                "draw": 3,
-                "lose": 3,
-                "goals": {
-                  "for": 8,
-                  "against": 14
-                }
-              },
-              "home": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 3,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 5,
-                "win": 1,
-                "draw": 2,
-                "lose": 2,
-                "goals": {
-                  "for": 5,
-                  "against": 10
                 }
               },
               "update": "2025-11-02T00:00:00+00:00"
@@ -654,6 +654,51 @@
             {
               "rank": 15,
               "team": {
+                "id": 867,
+                "name": "Lecce",
+                "logo": "https://media.api-sports.io/football/teams/867.png"
+              },
+              "points": 9,
+              "goalsDiff": -6,
+              "group": "Serie A",
+              "form": "WLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 10,
+                "win": 2,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 8,
+                  "against": 14
+                }
+              },
+              "home": {
+                "played": 5,
+                "win": 0,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 5,
+                "win": 2,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "update": "2025-11-02T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
                 "id": 523,
                 "name": "Parma",
                 "logo": "https://media.api-sports.io/football/teams/523.png"
@@ -697,71 +742,26 @@
               "update": "2025-11-02T00:00:00+00:00"
             },
             {
-              "rank": 16,
-              "team": {
-                "id": 867,
-                "name": "Lecce",
-                "logo": "https://media.api-sports.io/football/teams/867.png"
-              },
-              "points": 6,
-              "goalsDiff": -7,
-              "group": "Serie A",
-              "form": "LLDWD",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 9,
-                "win": 1,
-                "draw": 3,
-                "lose": 5,
-                "goals": {
-                  "for": 7,
-                  "against": 14
-                }
-              },
-              "home": {
-                "played": 5,
-                "win": 0,
-                "draw": 2,
-                "lose": 3,
-                "goals": {
-                  "for": 3,
-                  "against": 7
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 1,
-                "draw": 1,
-                "lose": 2,
-                "goals": {
-                  "for": 4,
-                  "against": 7
-                }
-              },
-              "update": "2025-11-02T00:00:00+00:00"
-            },
-            {
               "rank": 17,
               "team": {
                 "id": 801,
                 "name": "Pisa",
                 "logo": "https://media.api-sports.io/football/teams/801.png"
               },
-              "points": 5,
+              "points": 6,
               "goalsDiff": -7,
               "group": "Serie A",
-              "form": "DDDLD",
+              "form": "DDDDL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 9,
+                "played": 10,
                 "win": 0,
-                "draw": 5,
+                "draw": 6,
                 "lose": 4,
                 "goals": {
-                  "for": 5,
-                  "against": 12
+                  "for": 7,
+                  "against": 14
                 }
               },
               "home": {
@@ -775,13 +775,13 @@
                 }
               },
               "away": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
-                "draw": 2,
+                "draw": 3,
                 "lose": 2,
                 "goals": {
-                  "for": 5,
-                  "against": 10
+                  "for": 7,
+                  "against": 12
                 }
               },
               "update": "2025-11-02T00:00:00+00:00"
@@ -839,29 +839,29 @@
                 "logo": "https://media.api-sports.io/football/teams/502.png"
               },
               "points": 4,
-              "goalsDiff": -8,
+              "goalsDiff": -9,
               "group": "Serie A",
-              "form": "LDLLD",
+              "form": "LLDLL",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 9,
+                "played": 10,
                 "win": 0,
                 "draw": 4,
-                "lose": 5,
+                "lose": 6,
                 "goals": {
                   "for": 7,
-                  "against": 15
+                  "against": 16
                 }
               },
               "home": {
-                "played": 4,
+                "played": 5,
                 "win": 0,
                 "draw": 1,
-                "lose": 3,
+                "lose": 4,
                 "goals": {
                   "for": 5,
-                  "against": 9
+                  "against": 10
                 }
               },
               "away": {
