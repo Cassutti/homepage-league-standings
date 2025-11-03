@@ -64,7 +64,7 @@
                   "against": 4
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 1,
@@ -72,55 +72,6 @@
             },
             {
               "rank": 2,
-              "team": {
-                "id": 497,
-                "name": "AS Roma",
-                "logo": "https://media.api-sports.io/football/teams/497.png"
-              },
-              "points": 21,
-              "goalsDiff": 6,
-              "group": "Serie A",
-              "form": "WWLWW",
-              "status": "same",
-              "description": "Promotion - Champions League (League phase: )",
-              "all": {
-                "played": 9,
-                "win": 7,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 10,
-                  "against": 4
-                }
-              },
-              "home": {
-                "played": 5,
-                "win": 3,
-                "draw": 0,
-                "lose": 2,
-                "goals": {
-                  "for": 5,
-                  "against": 3
-                }
-              },
-              "away": {
-                "played": 4,
-                "win": 4,
-                "draw": 0,
-                "lose": 0,
-                "goals": {
-                  "for": 5,
-                  "against": 1
-                }
-              },
-              "update": "2025-11-02T00:00:00+00:00",
-              "highlight": false,
-              "lastSeasonLeague": "Serie A",
-              "lastSeasonPosition": 5,
-              "nextUp": "TBD"
-            },
-            {
-              "rank": 3,
               "team": {
                 "id": 505,
                 "name": "Inter",
@@ -162,42 +113,42 @@
                   "against": 8
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 2,
               "nextUp": "TBD"
             },
             {
-              "rank": 4,
+              "rank": 3,
               "team": {
                 "id": 489,
                 "name": "AC Milan",
                 "logo": "https://media.api-sports.io/football/teams/489.png"
               },
-              "points": 18,
-              "goalsDiff": 7,
+              "points": 21,
+              "goalsDiff": 8,
               "group": "Serie A",
-              "form": "DDWDW",
+              "form": "WDDWD",
               "status": "same",
               "description": "Promotion - Champions League (League phase: )",
               "all": {
-                "played": 9,
-                "win": 5,
+                "played": 10,
+                "win": 6,
                 "draw": 3,
                 "lose": 1,
                 "goals": {
-                  "for": 14,
+                  "for": 15,
                   "against": 7
                 }
               },
               "home": {
-                "played": 5,
-                "win": 3,
+                "played": 6,
+                "win": 4,
                 "draw": 1,
                 "lose": 1,
                 "goals": {
-                  "for": 8,
+                  "for": 9,
                   "against": 6
                 }
               },
@@ -211,10 +162,59 @@
                   "against": 1
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 8,
+              "nextUp": "TBD"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 21,
+              "goalsDiff": 5,
+              "group": "Serie A",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 10,
+                "win": 7,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 5,
+                "win": 3,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 5,
+                "win": 4,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "update": "2025-11-03T00:00:00+00:00",
+              "highlight": false,
+              "lastSeasonLeague": "Serie A",
+              "lastSeasonPosition": 5,
               "nextUp": "TBD"
             },
             {
@@ -260,7 +260,7 @@
                   "against": 7
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 9,
@@ -309,7 +309,7 @@
                   "against": 5
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 4,
@@ -358,7 +358,7 @@
                   "against": 3
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 10,
@@ -407,7 +407,7 @@
                   "against": 8
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": true,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 12,
@@ -456,7 +456,7 @@
                   "against": 6
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie B",
               "lastSeasonPosition": 4,
@@ -505,7 +505,7 @@
                   "against": 6
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie B",
               "lastSeasonPosition": 1,
@@ -554,7 +554,7 @@
                   "against": 4
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 3,
@@ -603,7 +603,7 @@
                   "against": 10
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 11,
@@ -652,7 +652,7 @@
                   "against": 3
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 7,
@@ -701,7 +701,7 @@
                   "against": 5
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 15,
@@ -750,7 +750,7 @@
                   "against": 7
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 17,
@@ -799,7 +799,7 @@
                   "against": 6
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 16,
@@ -848,7 +848,7 @@
                   "against": 12
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie B",
               "lastSeasonPosition": 2,
@@ -897,7 +897,7 @@
                   "against": 10
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 14,
@@ -946,7 +946,7 @@
                   "against": 6
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 6,
@@ -995,7 +995,7 @@
                   "against": 7
                 }
               },
-              "update": "2025-11-02T00:00:00+00:00",
+              "update": "2025-11-03T00:00:00+00:00",
               "highlight": false,
               "lastSeasonLeague": "Serie A",
               "lastSeasonPosition": 13,
