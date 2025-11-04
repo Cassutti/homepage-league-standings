@@ -339,6 +339,51 @@
             {
               "rank": 8,
               "team": {
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
+              },
+              "points": 15,
+              "goalsDiff": 6,
+              "group": "Serie A",
+              "form": "WDWDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 10,
+                "win": 4,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 5,
+                "win": 3,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 10,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 5,
+                "win": 1,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "update": "2025-11-03T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
                 "id": 494,
                 "name": "Udinese",
                 "logo": "https://media.api-sports.io/football/teams/494.png"
@@ -382,7 +427,7 @@
               "update": "2025-11-03T00:00:00+00:00"
             },
             {
-              "rank": 9,
+              "rank": 10,
               "team": {
                 "id": 520,
                 "name": "Cremonese",
@@ -427,7 +472,7 @@
               "update": "2025-11-03T00:00:00+00:00"
             },
             {
-              "rank": 10,
+              "rank": 11,
               "team": {
                 "id": 499,
                 "name": "Atalanta",
@@ -472,7 +517,7 @@
               "update": "2025-11-03T00:00:00+00:00"
             },
             {
-              "rank": 11,
+              "rank": 12,
               "team": {
                 "id": 488,
                 "name": "Sassuolo",
@@ -517,7 +562,7 @@
               "update": "2025-11-03T00:00:00+00:00"
             },
             {
-              "rank": 12,
+              "rank": 13,
               "team": {
                 "id": 503,
                 "name": "Torino",
@@ -562,51 +607,6 @@
               "update": "2025-11-03T00:00:00+00:00"
             },
             {
-              "rank": 13,
-              "team": {
-                "id": 487,
-                "name": "Lazio",
-                "logo": "https://media.api-sports.io/football/teams/487.png"
-              },
-              "points": 12,
-              "goalsDiff": 4,
-              "group": "Serie A",
-              "form": "DWDDW",
-              "status": "same",
-              "description": null,
-              "all": {
-                "played": 9,
-                "win": 3,
-                "draw": 3,
-                "lose": 3,
-                "goals": {
-                  "for": 11,
-                  "against": 7
-                }
-              },
-              "home": {
-                "played": 4,
-                "win": 2,
-                "draw": 1,
-                "lose": 1,
-                "goals": {
-                  "for": 8,
-                  "against": 4
-                }
-              },
-              "away": {
-                "played": 5,
-                "win": 1,
-                "draw": 2,
-                "lose": 2,
-                "goals": {
-                  "for": 3,
-                  "against": 3
-                }
-              },
-              "update": "2025-11-03T00:00:00+00:00"
-            },
-            {
               "rank": 14,
               "team": {
                 "id": 490,
@@ -614,19 +614,19 @@
                 "logo": "https://media.api-sports.io/football/teams/490.png"
               },
               "points": 9,
-              "goalsDiff": -3,
+              "goalsDiff": -5,
               "group": "Serie A",
-              "form": "LDLDL",
+              "form": "LLDLD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 9,
+                "played": 10,
                 "win": 2,
                 "draw": 3,
-                "lose": 4,
+                "lose": 5,
                 "goals": {
                   "for": 9,
-                  "against": 12
+                  "against": 14
                 }
               },
               "home": {
@@ -640,13 +640,13 @@
                 }
               },
               "away": {
-                "played": 4,
+                "played": 5,
                 "win": 1,
                 "draw": 2,
-                "lose": 1,
+                "lose": 2,
                 "goals": {
                   "for": 5,
-                  "against": 5
+                  "against": 7
                 }
               },
               "update": "2025-11-03T00:00:00+00:00"
