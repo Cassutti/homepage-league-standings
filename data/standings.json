@@ -322,16 +322,16 @@
                 "name": "Como",
                 "logo": "https://media.api-sports.io/football/teams/895.png"
               },
-              "points": 17,
+              "points": 18,
               "goalsDiff": 6,
               "group": "Serie A",
-              "form": "DWDWD",
+              "form": "DDWDW",
               "status": "same",
               "description": null,
               "all": {
-                "played": 10,
+                "played": 11,
                 "win": 4,
-                "draw": 5,
+                "draw": 6,
                 "lose": 1,
                 "goals": {
                   "for": 12,
@@ -339,9 +339,9 @@
                 }
               },
               "home": {
-                "played": 5,
+                "played": 6,
                 "win": 3,
-                "draw": 2,
+                "draw": 3,
                 "lose": 0,
                 "goals": {
                   "for": 9,
@@ -665,16 +665,16 @@
                 "name": "Cagliari",
                 "logo": "https://media.api-sports.io/football/teams/490.png"
               },
-              "points": 9,
+              "points": 10,
               "goalsDiff": -5,
               "group": "Serie A",
-              "form": "LLDLD",
+              "form": "DLLDL",
               "status": "same",
               "description": null,
               "all": {
-                "played": 10,
+                "played": 11,
                 "win": 2,
-                "draw": 3,
+                "draw": 4,
                 "lose": 5,
                 "goals": {
                   "for": 9,
@@ -692,9 +692,9 @@
                 }
               },
               "away": {
-                "played": 5,
+                "played": 6,
                 "win": 1,
-                "draw": 2,
+                "draw": 3,
                 "lose": 2,
                 "goals": {
                   "for": 5,
@@ -714,16 +714,16 @@
                 "name": "Lecce",
                 "logo": "https://media.api-sports.io/football/teams/867.png"
               },
-              "points": 9,
+              "points": 10,
               "goalsDiff": -6,
               "group": "Serie A",
-              "form": "WLLDW",
+              "form": "DWLLD",
               "status": "same",
               "description": null,
               "all": {
-                "played": 10,
+                "played": 11,
                 "win": 2,
-                "draw": 3,
+                "draw": 4,
                 "lose": 5,
                 "goals": {
                   "for": 8,
@@ -731,9 +731,9 @@
                 }
               },
               "home": {
-                "played": 5,
+                "played": 6,
                 "win": 0,
-                "draw": 2,
+                "draw": 3,
                 "lose": 3,
                 "goals": {
                   "for": 3,
@@ -910,16 +910,16 @@
                 "name": "Verona",
                 "logo": "https://media.api-sports.io/football/teams/504.png"
               },
-              "points": 5,
+              "points": 6,
               "goalsDiff": -10,
               "group": "Serie A",
-              "form": "LLDDL",
+              "form": "DLLDD",
               "status": "same",
               "description": "Relegation - Serie B",
               "all": {
-                "played": 10,
+                "played": 11,
                 "win": 0,
-                "draw": 5,
+                "draw": 6,
                 "lose": 5,
                 "goals": {
                   "for": 6,
@@ -937,9 +937,9 @@
                 }
               },
               "away": {
-                "played": 5,
+                "played": 6,
                 "win": 0,
-                "draw": 2,
+                "draw": 3,
                 "lose": 3,
                 "goals": {
                   "for": 2,
